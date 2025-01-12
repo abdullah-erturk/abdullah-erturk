@@ -3,7 +3,7 @@
 - 🌱 I have a special interest in scripting language (bat, cmd, vbs). I’m currently learning...
 - 💞️ I'm always a beginner, so I'm more open to learning, there is no mastery in this job anyway...
 
-[!["Buy Me A Coffee"](https://github.com/user-attachments/assets/ee60c530-7169-493e-b796-299421e9187f](https://buymeacoffee.com/abdullaherturk)
+![buymeacoffee](https://github.com/user-attachments/assets/f2a68bb9-6cdc-4b10-8ce8-5656dd69cde5)
 
 https://buymeacoffee.com/abdullaherturk
 
