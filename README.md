@@ -12,7 +12,6 @@
 abdullah-erturk/abdullah-erturk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah-erturk&theme=react-dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah-erturk&theme=github" />
 </p>
