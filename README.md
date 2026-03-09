@@ -5,8 +5,6 @@
 
 [erturk.netlify.app](https://erturk.netlify.app)
 
-![Snake animation](https://github.com/abdullah-erturk/abdullah-erturk/blob/output/github-contribution-grid-snake.svg)
-
 <a href="https://buymeacoffee.com/abdullaherturk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 
