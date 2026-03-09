@@ -42,7 +42,7 @@ echo I love automating Windows with %PASSION%
 echo "%PHILOSOPHY%"
 ```
 
-- 🎓 **Ardahan Üniversitesi** öğrencisi
+- 🎓 **Ardahan Üniversitesi** BT Tekniker
 - 💡 Windows scripting & otomasyon tutkunu
 - 🛠️ BAT · CMD · VBS · PowerShell · C# ile projeler geliştiriyorum
 - 🔐 Şifreleme, sistem yedekleme ve aktivasyon araçlarına özel ilgim var
