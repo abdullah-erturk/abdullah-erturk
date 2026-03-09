@@ -40,6 +40,8 @@ set WEBSITE=https://erturk.netlify.app
 echo Hello, World! I am %NAME%
 echo I love automating Windows with %PASSION%
 echo "%PHILOSOPHY%"
+echo Press any key to continue...
+pause >nul
 ```
 
 - 🎓 **Ardahan Üniversitesi** BT Tekniker
