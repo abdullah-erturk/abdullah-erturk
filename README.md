@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:c0392b,100:e74c3c&height=140&section=header&text=Abdullah%20ERTÜRK&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Windows%20Scripting%20%7C%20PowerShell%20%7C%20Batch%20%7C%20WinPE&descAlignY=58&descSize=14&descColor=a8b8d8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:c0392b,100:e74c3c&height=160&section=header&text=Abdullah%20ERTÜRK&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Windows%20Scripting%20%7C%20PowerShell%20%7C%20Batch%20%7C%20WinPE&descAlignY=58&descSize=14&descColor=a8b8d8" />
 
 <!-- Typing Animation -->
 <a href="https://github.com/abdullah-erturk">
@@ -190,5 +190,5 @@ pause >nul
 
 <!-- Footer -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:388bfd,50:1f6feb,100:0d1117&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:c0392b,100&height=120&section=footer" />
 </div>
