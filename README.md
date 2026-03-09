@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:388bfd&height=140&section=header&text=Abdullah%20ERTÜRK&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Windows%20Scripting%20%7C%20PowerShell%20%7C%20Batch%20%7C%20WinPE&descAlignY=58&descSize=18&descColor=a8b8d8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:388bfd&height=200&section=header&text=Abdullah%20ERTÜRK&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Windows%20Scripting%20%7C%20PowerShell%20%7C%20Batch%20%7C%20WinPE&descAlignY=58&descSize=18&descColor=a8b8d8" />
 
 <!-- Typing Animation -->
 <a href="https://github.com/abdullah-erturk">
@@ -42,7 +42,7 @@ echo I love automating Windows with %PASSION%
 echo "%PHILOSOPHY%"
 ```
 
-- 🎓 **Ardahan Üniversitesi** BT Tekniker
+- 🎓 **Ardahan Üniversitesi** öğrencisi
 - 💡 Windows scripting & otomasyon tutkunu
 - 🛠️ BAT · CMD · VBS · PowerShell · C# ile projeler geliştiriyorum
 - 🔐 Şifreleme, sistem yedekleme ve aktivasyon araçlarına özel ilgim var
@@ -76,13 +76,13 @@ echo "%PHILOSOPHY%"
 
 | 📦 Proje | 📝 Açıklama | 🔧 Dil | ⭐ Stars |
 |---|---|---|---|
-| [**pmas**](https://github.com/abdullah-erturk/pmas) | PMAS - PowerShell Multi Activation System (TSF/HWID/OHOOK/KMS) | Batchfile | 217 ⭐ |
-| [**Windows-Backup-Restore-Tool**](https://github.com/abdullah-erturk/Windows-Backup-Restore-Tool) | Windows Backup & Restore Aracı v2 | C# | 19 ⭐ |
-| [**Encryption-Decryption-Tool**](https://github.com/abdullah-erturk/Encryption-Decryption-Tool) | Windows için Şifreleme / Şifre Çözme Aracı | C# | 19 ⭐ |
-| [**WinPE**](https://github.com/abdullah-erturk/WinPE) | Rescue WinPE & Backup WinPE | Batch | 11 ⭐ |
-| [**Office-365-Enterprise-Setup**](https://github.com/abdullah-erturk/Office-365-Enterprise-Setup) | Office 365 Enterprise Otomatik Offline/Online Kurulum | PowerShell | 10 ⭐ |
-| [**Secure-Encrypt**](https://github.com/abdullah-erturk/Secure-Encrypt) | AES-256 ile Güvenli Şifreleme | Batchfile | 5 ⭐ |
-| [**RustDesk-ID-Changer**](https://github.com/abdullah-erturk/RustDesk-ID-Changer) | RustDesk ID Değiştirme Aracı | PowerShell | — |
+| [**pmas**](https://github.com/abdullah-erturk/pmas) | PMAS - PowerShell Multi Activation System (TSF/HWID/OHOOK/KMS) | Batchfile | ![](https://img.shields.io/github/stars/abdullah-erturk/pmas?style=flat-square&color=FFD700&labelColor=0d1117) |
+| [**Windows-Backup-Restore-Tool**](https://github.com/abdullah-erturk/Windows-Backup-Restore-Tool) | Windows Backup & Restore Aracı v2 | C# | ![](https://img.shields.io/github/stars/abdullah-erturk/Windows-Backup-Restore-Tool?style=flat-square&color=FFD700&labelColor=0d1117) |
+| [**Encryption-Decryption-Tool**](https://github.com/abdullah-erturk/Encryption-Decryption-Tool) | Windows için Şifreleme / Şifre Çözme Aracı | C# | ![](https://img.shields.io/github/stars/abdullah-erturk/Encryption-Decryption-Tool?style=flat-square&color=FFD700&labelColor=0d1117) |
+| [**WinPE**](https://github.com/abdullah-erturk/WinPE) | Rescue WinPE & Backup WinPE | Batch | ![](https://img.shields.io/github/stars/abdullah-erturk/WinPE?style=flat-square&color=FFD700&labelColor=0d1117) |
+| [**Office-365-Enterprise-Setup**](https://github.com/abdullah-erturk/Office-365-Enterprise-Setup) | Office 365 Enterprise Otomatik Offline/Online Kurulum | PowerShell | ![](https://img.shields.io/github/stars/abdullah-erturk/Office-365-Enterprise-Setup?style=flat-square&color=FFD700&labelColor=0d1117) |
+| [**Secure-Encrypt**](https://github.com/abdullah-erturk/Secure-Encrypt) | AES-256 ile Güvenli Şifreleme | Batchfile | ![](https://img.shields.io/github/stars/abdullah-erturk/Secure-Encrypt?style=flat-square&color=FFD700&labelColor=0d1117) |
+| [**RustDesk-ID-Changer**](https://github.com/abdullah-erturk/RustDesk-ID-Changer) | RustDesk ID Değiştirme Aracı | PowerShell | ![](https://img.shields.io/github/stars/abdullah-erturk/RustDesk-ID-Changer?style=flat-square&color=FFD700&labelColor=0d1117) |
 
 </div>
 
@@ -181,6 +181,8 @@ echo "%PHILOSOPHY%"
 <a href="https://buymeacoffee.com/abdullaherturk" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
 </a>
+
+<br/><br/>
 
 <sub>💙 Beğendiyseniz bir ⭐ bırakmayı unutmayın! / Don't forget to leave a ⭐ if you like my work!</sub>
 
