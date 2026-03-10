@@ -184,7 +184,7 @@ pause >nul
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
 </a>
 
-<sub> Projelerimi beğenirseniz 💙 Github üzerinden ⭐ yıldız verin ya da bana bir kahve ısmarlayın. ☕ <br> If you like my projects 💙, please give them a ⭐ star rating on Github or buy me a coffee. ☕ </sub>
+<sub> Projelerimi beğenirseniz 💙 Github üzerinden ⭐ yıldız verin ya da bana bir kahve ısmarlayın. ☕ <br> If you like my projects 💙 please give them a ⭐ star rating on Github or buy me a coffee. ☕ </sub>
 
 </div>
 
