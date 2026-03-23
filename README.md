@@ -10,6 +10,10 @@
 
 <br/>
 
+<div align="center">
+<img alt="Coding gif" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300"/>
+</div>
+
 <!-- Profile Views & Followers -->
 <img src="https://komarev.com/ghpvc/?username=abdullah-erturk&label=Profile+Views&color=1f6feb&style=for-the-badge" />
 &nbsp;
