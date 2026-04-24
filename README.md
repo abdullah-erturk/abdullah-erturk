@@ -169,7 +169,7 @@ pause >nul
 <div align="center">
 
 <a href="https://erturk-dev.netlify.app">
-  <img src="https://img.shields.io/badge/🌐_Website-erturk-dev.netlify.app-388bfd?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90_Website-erturk--dev.netlify.app-388bfd?style=for-the-badge&labelColor=0d1117" />
 </a>
 &nbsp;
 <a href="https://github.com/abdullah-erturk">
