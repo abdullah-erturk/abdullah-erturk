@@ -39,7 +39,7 @@ set NAME=Abdullah ERTÜRK
 set UNIVERSITY=Ardahan University
 set PASSION=Windows Scripting (BAT, CMD, VBS, PowerShell)
 set PHILOSOPHY=Always a beginner — always learning!
-set WEBSITE=https://erturk.netlify.app
+set WEBSITE=https://erturk-dev.netlify.app
 
 echo Hello, World! I am %NAME%
 echo I love automating Windows with %PASSION%
@@ -52,7 +52,7 @@ pause >nul
 - 💡 Windows scripting & otomasyon tutkunu
 - 🛠️ BAT · CMD · VBS · PowerShell · C# ile projeler geliştiriyorum
 - 🔐 Şifreleme, sistem yedekleme ve aktivasyon araçlarına özel ilgim var
-- 🌐 Kişisel sitem: **[erturk.netlify.app](https://erturk.netlify.app)**
+- 🌐 Kişisel sitem: **[erturk-dev.netlify.app](https://erturk-dev.netlify.app)**
 - 💞️ Hep öğrenci kalacağım — bu işte ustalık olmaz!
 
 ---
@@ -168,8 +168,8 @@ pause >nul
 
 <div align="center">
 
-<a href="https://erturk.netlify.app">
-  <img src="https://img.shields.io/badge/🌐_Website-erturk.netlify.app-388bfd?style=for-the-badge&labelColor=0d1117" />
+<a href="https://erturk-dev.netlify.app">
+  <img src="https://img.shields.io/badge/🌐_Website-erturk-dev.netlify.app-388bfd?style=for-the-badge&labelColor=0d1117" />
 </a>
 &nbsp;
 <a href="https://github.com/abdullah-erturk">
