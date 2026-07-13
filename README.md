@@ -49,13 +49,13 @@ pause >nul
 ```
 
 - 🎓 **Ardahan Üniversitesi** — Bilgisayar Teknikeri
-- 🖥️ Kurumsal IT altyapısı: VMware vSphere/ESXi ortam yönetimi, PXE/iPXE tabanlı ağ üzerinden Windows/Linux dağıtımı
-- 🛠️ WinPE ile offline sistem kurtarma araçları ve otomasyon çözümleri geliştiriyorum
+- 🖥️ Kurumsal IT altyapısı: VMware vSphere/ESXi ortam yönetimi, PXE/iPXE tabanlı ağ üzerinden Windows/Linux dağıtımı.
+- 🛠️ WinPE ile offline sistem kurtarma araçları ve otomasyon çözümleri geliştiriyorum.
 - ⭐ **[PMAS](https://github.com/abdullah-erturk/pmas)** projem 300+ yıldıza ulaştı — PowerShell tabanlı çoklu aktivasyon sistemi (TSF/HWID/OHOOK/KMS)
-- 💻 PowerShell · Batch · VBScript · C# ile projeler üretiyorum
-- 🔐 Şifreleme, sistem yedekleme ve aktivasyon araçlarına özel ilgim var
+- 💻 PowerShell · Batch · VBScript · C# ile projeler üretiyorum.
+- 🔐 Şifreleme, sistem yedekleme ve aktivasyon araçlarına özel ilgim var.
 - 🌐 Kişisel sitem: **[erturk-dev.netlify.app](https://erturk-dev.netlify.app)**
-- 💞️ Donanımdan otomasyona, altyapının her katmanına dokunmayı seviyorum
+- 💞️ Donanımdan otomasyona, altyapının her katmanına dokunmayı seviyorum.
 
 ---
 
