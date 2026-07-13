@@ -33,27 +33,29 @@
 
 ```batch
 @echo off
-:: Abdullah ERTÜRK - Windows Script Developer
+:: Abdullah ERTÜRK - IT Infrastructure & Automation
 
 set NAME=Abdullah ERTÜRK
-set UNIVERSITY=Ardahan University
-set PASSION=Windows Scripting (BAT, CMD, VBS, PowerShell)
-set PHILOSOPHY=Always a beginner — always learning!
+set TITLE=Computer Technician @ Ardahan University
+set STACK=VMware vSphere ^| iPXE Boot ^| WinPE ^| PowerShell ^| Batch ^| C#
+set PHILOSOPHY=Always learning, always building!
 set WEBSITE=https://erturk-dev.netlify.app
 
 echo Hello, World! I am %NAME%
-echo I love automating Windows with %PASSION%
+echo Working with %STACK%
 echo "%PHILOSOPHY%"
 echo Press any key to continue...
 pause >nul
 ```
 
-- 🎓 **Ardahan Üniversitesi** BT Tekniker
-- 💡 Windows scripting & otomasyon tutkunu
-- 🛠️ BAT · CMD · VBS · PowerShell · C# ile projeler geliştiriyorum
+- 🎓 **Ardahan Üniversitesi** — Bilgisayar Teknikeri
+- 🖥️ Kurumsal IT altyapısı: VMware vSphere/ESXi ortam yönetimi, PXE/iPXE tabanlı ağ üzerinden Windows/Linux dağıtımı
+- 🛠️ WinPE ile offline sistem kurtarma araçları ve otomasyon çözümleri geliştiriyorum
+- ⭐ **[PMAS](https://github.com/abdullah-erturk/pmas)** projem 300+ yıldıza ulaştı — PowerShell tabanlı çoklu aktivasyon sistemi (TSF/HWID/OHOOK/KMS)
+- 💻 PowerShell · Batch · VBScript · C# ile projeler üretiyorum
 - 🔐 Şifreleme, sistem yedekleme ve aktivasyon araçlarına özel ilgim var
 - 🌐 Kişisel sitem: **[erturk-dev.netlify.app](https://erturk-dev.netlify.app)**
-- 💞️ Hep öğrenci kalacağım — bu işte ustalık olmaz!
+- 💞️ Donanımdan otomasyona, altyapının her katmanına dokunmayı seviyorum
 
 ---
 
